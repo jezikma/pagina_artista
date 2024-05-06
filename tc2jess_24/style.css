@@ -1,0 +1,97 @@
+body{
+background-color: black;
+color:aliceblue
+}
+/* main */
+/* hero */
+
+/* Basic styles for the navigation bar */
+header{
+    padding: 10px;
+}
+nav {
+    background-color: #6f6969; /* Background color */
+}
+
+ul {
+    list-style-type: none; /* Remove default list styles */
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display:inline; /* Display list items horizontally */
+    margin: auto;
+}
+
+li a {
+    display: inline;
+    padding: 10px 20px;
+    color: white; /* Text color */
+    text-decoration: none; /* Remove underline */
+    margin: auto;
+}
+
+li a:hover {
+    background-color: #986868; /* Background color on hover */
+}
+
+
+.hero-image{
+    background:url(/imagenes/suga-that.jpg)center/cover;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 25rem;
+}
+.hero-image {
+    font-size: 55rem;
+    padding-top: 200px;
+    color: rgb(148, 12, 12);
+    border-color: antiquewhite;
+    border-radius: 10px;
+    margin: solid;
+    border-style: solid;
+}
+/* responsivo */
+@media (min-width: 768px) {
+    .hero-image {
+        font-size: 55rem;
+}
+}
+
+ h1,h2,h3,p{
+        text-align: center;
+        margin:0 0 1rem 0;
+        font-size: x-large;
+}
+h2{
+    color:rgb(148, 12, 12) ;
+}
+img{
+    width: 500px;
+    margin-left: 130px;
+    border-radius: 20px;
+    border-style: double;
+    border-width: 10px;
+    border-color: antiquewhite;
+}
+
+.img1{
+    border-radius: 20px;
+    border-style: double;
+    margin-top: 50px;
+    margin-left: 300px;
+}
+
+h2 a{
+    color: azure;
+    text-decoration: none;
+}
+.footer{
+    text-align: center;
+}
+footer a {
+    color: red; /* Change to the desired color */
+    text-decoration: none; /* Optional: Remove underline */
+}
