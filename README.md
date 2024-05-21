@@ -16,8 +16,8 @@ CSS3: Para el diseño y el estilo.
 Google Fonts: Para fuentes personalizadas.
 Vista Previa del Proyecto
 
-Demo
+### Vista Previa del Proyecto
+![Demo](fotos/Pinterest_screen.png)
 
-Contacto
-
-Si te gustaría invitarme a colaborar en un proyecto, escríbeme por LinkedIn.
+### Contacto
+Si te gustaría invitarme a colaborar en un proyecto, escríbeme por [LinkedIn](https://www.linkedin.com/in/jessica-malc/).
